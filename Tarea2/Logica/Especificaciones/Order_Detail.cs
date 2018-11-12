@@ -20,5 +20,14 @@ namespace Tarea2.Logica.Especificaciones
             var elResultado = laAccion.ConsultarDetalleOrdenPorNombreCategoria(categoria);
             return elResultado;
         }
+
+        public Tarea2.Order_Detail ConsultarPorId(int id)
+        {
+            var laAccion = new Tarea2.Logica.Acciones.Order_Detail();
+            var elResultado = laAccion.ConsultarPorId(id);
+            return elResultado;
+        }
+
+
     }
 }

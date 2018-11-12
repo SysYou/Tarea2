@@ -10,7 +10,15 @@ G:\Fidelitas Bachillerato Sistemas\2018\III Cuatrimestre\Progra5\Tarea2Progra\Ta
 G:\Fidelitas Bachillerato Sistemas\2018\III Cuatrimestre\Progra5\Tarea2Progra\Tarea2\Tarea2\obj\Debug\Tarea2.dll
 G:\Fidelitas Bachillerato Sistemas\2018\III Cuatrimestre\Progra5\Tarea2Progra\Tarea2\Tarea2\obj\Debug\Tarea2.pdb
 G:\Fidelitas Bachillerato Sistemas\2018\III Cuatrimestre\Progra5\Tarea2Progra\Tarea2\Tarea2\obj\Debug\Tarea2.csprojAssemblyReference.cache
-C:\Users\diego.ramirez\Documents\Progra5\Tarea2\Tarea2\obj\Debug\Tarea2.csprojAssemblyReference.cache
 C:\Users\diego.ramirez\Documents\Progra5\Tarea2\Tarea2\obj\Debug\Tarea2.csproj.CoreCompileInputs.cache
 C:\Users\diego.ramirez\Documents\Progra5\Tarea2\Tarea2\obj\Debug\Tarea2.dll
 C:\Users\diego.ramirez\Documents\Progra5\Tarea2\Tarea2\obj\Debug\Tarea2.pdb
+C:\Users\diego.ramirez\Documents\Progra5\Tarea2\Tarea2\bin\Tarea2.dll.config
+C:\Users\diego.ramirez\Documents\Progra5\Tarea2\Tarea2\bin\Tarea2.dll
+C:\Users\diego.ramirez\Documents\Progra5\Tarea2\Tarea2\bin\Tarea2.pdb
+C:\Users\diego.ramirez\Documents\Progra5\Tarea2\Tarea2\bin\EntityFramework.dll
+C:\Users\diego.ramirez\Documents\Progra5\Tarea2\Tarea2\bin\EntityFramework.SqlServer.dll
+C:\Users\diego.ramirez\Documents\Progra5\Tarea2\Tarea2\bin\EntityFramework.xml
+C:\Users\diego.ramirez\Documents\Progra5\Tarea2\Tarea2\bin\EntityFramework.SqlServer.xml
+C:\Users\diego.ramirez\Documents\Progra5\Tarea2\Tarea2\obj\Debug\Tarea2.csproj.CopyComplete
+C:\Users\diego.ramirez\Documents\Progra5\Tarea2\Tarea2\obj\Debug\Tarea2.csprojAssemblyReference.cache

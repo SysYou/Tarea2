@@ -18,14 +18,21 @@ namespace Tarea2.Logica.Repositorio
         internal IList<Tarea2.Order_Detail> ConsultarDetalleOrdenPorNombreArticulo(string articulo)
         {
             IList<Tarea2.Order_Detail> elResultado = _contexto.Order_Details.Include("Product").Where(c => c.Product.ProductName.Equals(articulo)).ToList();
-            // LimpiarPropiedadesDeNavegacion(ref elResultado);
+
             return elResultado;
         }
 
         internal IList<Tarea2.Product> ConsultarDetalleOrdenPorNombreCategoria(string categoria)
         {
             IList<Tarea2.Product> elResultado = _contexto.Products.Include("Category").Where(c => c.Category.CategoryName.Equals(categoria)).ToList();
-            // LimpiarPropiedadesDeNavegacion(ref elResultado);
+
+            return elResultado;
+        }
+
+        internal Tarea2.Order_Detail ConsultarPorId(int id)
+        {
+            var elResultado = _contexto.Order_Details.Where(c => c.OrderID == id).FirstOrDefault();
+
             return elResultado;
         }
     }
