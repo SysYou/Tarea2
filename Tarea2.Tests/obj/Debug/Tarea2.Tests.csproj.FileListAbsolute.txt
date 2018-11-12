@@ -23,3 +23,25 @@ G:\Fidelitas Bachillerato Sistemas\2018\III Cuatrimestre\Progra5\Tarea2Progra\Ta
 G:\Fidelitas Bachillerato Sistemas\2018\III Cuatrimestre\Progra5\Tarea2Progra\Tarea2\Tarea2.Tests\bin\Debug\Tarea2.Tests.dll.config
 G:\Fidelitas Bachillerato Sistemas\2018\III Cuatrimestre\Progra5\Tarea2Progra\Tarea2\Tarea2.Tests\bin\Debug\EntityFramework.SqlServer.dll
 G:\Fidelitas Bachillerato Sistemas\2018\III Cuatrimestre\Progra5\Tarea2Progra\Tarea2\Tarea2.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\diego.ramirez\Documents\Progra5\Tarea2\Tarea2.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\diego.ramirez\Documents\Progra5\Tarea2\Tarea2.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\diego.ramirez\Documents\Progra5\Tarea2\Tarea2.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\diego.ramirez\Documents\Progra5\Tarea2\Tarea2.Tests\bin\Debug\Tarea2.Tests.dll.config
+C:\Users\diego.ramirez\Documents\Progra5\Tarea2\Tarea2.Tests\bin\Debug\Tarea2.Tests.dll
+C:\Users\diego.ramirez\Documents\Progra5\Tarea2\Tarea2.Tests\bin\Debug\Tarea2.Tests.pdb
+C:\Users\diego.ramirez\Documents\Progra5\Tarea2\Tarea2.Tests\bin\Debug\EntityFramework.dll
+C:\Users\diego.ramirez\Documents\Progra5\Tarea2\Tarea2.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\diego.ramirez\Documents\Progra5\Tarea2\Tarea2.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\diego.ramirez\Documents\Progra5\Tarea2\Tarea2.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\diego.ramirez\Documents\Progra5\Tarea2\Tarea2.Tests\bin\Debug\Tarea2.dll
+C:\Users\diego.ramirez\Documents\Progra5\Tarea2\Tarea2.Tests\bin\Debug\Tarea2.pdb
+C:\Users\diego.ramirez\Documents\Progra5\Tarea2\Tarea2.Tests\bin\Debug\Tarea2.dll.config
+C:\Users\diego.ramirez\Documents\Progra5\Tarea2\Tarea2.Tests\bin\Debug\EntityFramework.xml
+C:\Users\diego.ramirez\Documents\Progra5\Tarea2\Tarea2.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\diego.ramirez\Documents\Progra5\Tarea2\Tarea2.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\diego.ramirez\Documents\Progra5\Tarea2\Tarea2.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\diego.ramirez\Documents\Progra5\Tarea2\Tarea2.Tests\obj\Debug\Tarea2.Tests.csprojAssemblyReference.cache
+C:\Users\diego.ramirez\Documents\Progra5\Tarea2\Tarea2.Tests\obj\Debug\Tarea2.Tests.csproj.CoreCompileInputs.cache
+C:\Users\diego.ramirez\Documents\Progra5\Tarea2\Tarea2.Tests\obj\Debug\Tarea2.Tests.csproj.CopyComplete
+C:\Users\diego.ramirez\Documents\Progra5\Tarea2\Tarea2.Tests\obj\Debug\Tarea2.Tests.dll
+C:\Users\diego.ramirez\Documents\Progra5\Tarea2\Tarea2.Tests\obj\Debug\Tarea2.Tests.pdb
