@@ -45,7 +45,7 @@ namespace Tarea2.Tests
             // defino el escenario inicial
             var laEspecificacion = new Tarea2.Logica.Especificaciones.Orders();
             var cliente = "Karin Josephs";
-            var elResultadoEsperado = 5;
+            var elResultadoEsperado = 6;
 
             // invoco al método de la prueba
             var elResultadoReal = laEspecificacion.ConsultarOrdenesPorNombreCliente(cliente);
@@ -60,8 +60,8 @@ namespace Tarea2.Tests
         {
             // defino el escenario inicial
             var laEspecificacion = new Tarea2.Logica.Especificaciones.Orders();
-            var vendedor = "";
-            var elResultadoEsperado = 5;
+            var vendedor = "Michael";
+            var elResultadoEsperado = 67;
 
             // invoco al método de la prueba
             var elResultadoReal = laEspecificacion.ConsultarOrdenesPorNombreVendedor(vendedor);
