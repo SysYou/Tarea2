@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs/Tarea2/v15
+/Tarea2.Tests/OrdersTesting.cs
+/Tarea2/Logica/Acciones/Order_Detail.cs
+/Tarea2/Logica/Especificaciones/Order_Detail.cs
+/Tarea2/Logica/Repositorio/Order_Detail.cs
+/Tarea2.Tests/OrderDetailsTesting.cs

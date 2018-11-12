@@ -98,6 +98,11 @@
     <Compile Include="Employee.cs">
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
+    <Compile Include="Logica\Acciones\Orders.cs" />
+    <Compile Include="Logica\Acciones\Order_Detail.cs" />
+    <Compile Include="Logica\Especificaciones\Orders.cs" />
+    <Compile Include="Logica\Especificaciones\Order_Detail.cs" />
+    <Compile Include="Logica\Repositorio\Order_Detail.cs" />
     <Compile Include="Logica\Repositorio\Orders.cs" />
     <Compile Include="MisTablas\Order.cs" />
     <Compile Include="MisTablas\Order_Detail.cs" />
@@ -149,8 +154,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Logica\Acciones\" />
-    <Folder Include="Logica\Especificaciones\" />
     <Folder Include="Logica\Interfaces\" />
     <Folder Include="Logica\Servicios\" />
     <Folder Include="Logica\Validaciones\" />
